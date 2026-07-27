@@ -18,5 +18,9 @@
   {
     "theme": "call_to_action",
     "headline": "Stop guessing when your HVAC will break."
+  },
+  {
+    "theme": "product_explainer",
+    "headline": "Every HVAC failure starts with a vibration."
   }
 ]
