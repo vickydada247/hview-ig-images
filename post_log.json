@@ -1,9 +1,5 @@
 [
   {
-    "theme": "call_to_action",
-    "headline": "Your HVAC shouldn't be a gamble."
-  },
-  {
     "theme": "recruiting_pilot",
     "headline": "Be a founding NOVA pilot partner."
   },
@@ -38,5 +34,9 @@
   {
     "theme": "recruiting_pilot",
     "headline": "Beta test NOVA's newest HVAC sensor."
+  },
+  {
+    "theme": "call_to_action",
+    "headline": "Stop waiting for your HVAC to die."
   }
 ]
