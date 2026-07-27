@@ -1,9 +1,5 @@
 [
   {
-    "theme": "call_to_action",
-    "headline": "Predict HVAC breakdowns before they happen."
-  },
-  {
     "theme": "recruiting_pilot",
     "headline": "Help us launch NOVA's smartest HVAC sensor."
   },
@@ -38,5 +34,9 @@
   {
     "theme": "pain_point",
     "headline": "An unexpected HVAC outage ruins everything."
+  },
+  {
+    "theme": "call_to_action",
+    "headline": "Predict HVAC failure before it starts."
   }
 ]
