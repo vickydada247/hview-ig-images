@@ -6,5 +6,9 @@
   {
     "theme": "product_explainer",
     "headline": "Your rooftop HVAC is sending warning signals."
+  },
+  {
+    "theme": "pain_point",
+    "headline": "A dead HVAC costs more than repairs."
   }
 ]
