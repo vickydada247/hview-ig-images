@@ -1,9 +1,5 @@
 [
   {
-    "theme": "pain_point",
-    "headline": "A dead HVAC costs more than repairs."
-  },
-  {
     "theme": "product_explainer",
     "headline": "Unseen HVAC vibration is costing you money."
   },
@@ -38,5 +34,9 @@
   {
     "theme": "call_to_action",
     "headline": "Is your HVAC silently failing right now?"
+  },
+  {
+    "theme": "recruiting_pilot",
+    "headline": "Shape the future of smart maintenance."
   }
 ]
