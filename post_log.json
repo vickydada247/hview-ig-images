@@ -1,9 +1,5 @@
 [
   {
-    "theme": "call_to_action",
-    "headline": "Know your HVAC is failing before it fails."
-  },
-  {
     "theme": "product_explainer",
     "headline": "Your rooftop HVAC is sending warning signals."
   },
@@ -38,5 +34,9 @@
   {
     "theme": "call_to_action",
     "headline": "Predict HVAC breakdowns before they happen."
+  },
+  {
+    "theme": "recruiting_pilot",
+    "headline": "Help us launch NOVA's smartest HVAC sensor."
   }
 ]
