@@ -1,9 +1,5 @@
 [
   {
-    "theme": "product_explainer",
-    "headline": "Every HVAC failure starts with a vibration."
-  },
-  {
     "theme": "call_to_action",
     "headline": "Your HVAC shouldn't be a gamble."
   },
@@ -38,5 +34,9 @@
   {
     "theme": "pain_point",
     "headline": "HVAC downtime is an expensive surprise."
+  },
+  {
+    "theme": "recruiting_pilot",
+    "headline": "Beta test NOVA's newest HVAC sensor."
   }
 ]
